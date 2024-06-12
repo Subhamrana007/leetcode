@@ -1,12 +1,12 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        new_hash= {}
-        for i,n in enumerate(nums):
-            diff = target-n
-            if diff in new_hash:
-                return[new_hash[diff], i]
-            new_hash[n]= i
-        return
+
+        for i in range(len(nums)):
+            for j in range(i+1,len(nums)):
+                
+                result = nums[i] + nums[j]
+                if result == target:
+                    return[i , j]
 
         """
         :type nums: List[int]
