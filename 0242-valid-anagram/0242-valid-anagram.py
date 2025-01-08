@@ -1,10 +1,12 @@
 class Solution(object):
     def isAnagram(self, s, t):
-        return  sorted(list(s))== sorted(list(t))
+        if sorted(s) == sorted(t):
+            return True
+        else:
+            return False
 
-                
         """
-        :type s: st
+        :type s: str
         :type t: str
         :rtype: bool
         """
