@@ -1,16 +1,12 @@
 class Solution(object):
     def twoSum(self, nums, target):
-
+        empty = {}
         for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                
-                result = nums[i] + nums[j]
-                if result == target:
-                    return[i , j]
+            target1 = target - nums[i]
+            if target1 in empty:
+                return [empty[target1] , i]
+            else:
+                empty[nums[i]]= i
+        
 
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
         
