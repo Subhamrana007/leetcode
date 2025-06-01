@@ -1,12 +1,15 @@
 class Solution(object):
     def twoSum(self, nums, target):
         empty = {}
-        for i in range(len(nums)):
-            target1 = target - nums[i]
-            if target1 in empty:
-                return [empty[target1] , i]
+        for i , n  in enumerate (nums):
+            diff = target - nums[i];
+            if diff in empty:
+                return [empty[diff], i ]
             else:
-                empty[nums[i]]= i
-        
-
+                empty[n] = i
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
         
