@@ -1,24 +1,21 @@
 from collections import defaultdict
-
-class Solution:
+class Solution(object):
     def groupAnagrams(self, strs):
+        anagram = defaultdict(list)
+
+        for s in strs:
+            count = [0] *26
+
+            for c in s:
+                count[ord(c)-ord("a")] +=1
+
+            key = tuple(count)
+            anagram[key].append(s)
+        
+        return anagram.values()
+
         """
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        # Initialize a defaultdict with list as the default factory
-        anagrams = defaultdict(list)
-        
-        for word in strs:
-            # Sort the word to create a key
-            sorted_word = ''.join(sorted(word))
-            
-            # Append the original word to the list associated with the sorted key
-            anagrams[sorted_word].append(word)
-        
-        # Return the values of the dictionary as a list of lists
-        return list(anagrams.values())
-
-
-
         
