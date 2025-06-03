@@ -14,10 +14,3 @@ class Solution(object):
                 if len(res)== k:
                     return res
   
-
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: List[int]
-        """
-        
