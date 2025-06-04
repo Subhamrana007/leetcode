@@ -4,14 +4,16 @@ class Solution(object):
         anagram = defaultdict(list)
 
         for s in strs:
-            count = [0] * 26
+            character = [0]* 26
 
             for c in s:
-                count[ord(c)-ord("a")] +=1
+                character[ord(c) - ord ("a")] +=1
 
-            key = tuple(count)
+            key = tuple(character)
             anagram[key].append(s)
         return anagram.values()
+
+
         """
         :type strs: List[str]
         :rtype: List[List[str]]
