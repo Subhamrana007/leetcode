@@ -87,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Subhamrana007/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Subhamrana007/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Subhamrana007/leetcode/tree/master/0412-fizz-buzz) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Subhamrana007/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Subhamrana007/leetcode/tree/master/0412-fizz-buzz) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Subhamrana007/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Subhamrana007/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Subhamrana007/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1580-shuffle-the-array](https://github.com/Subhamrana007/leetcode/tree/master/1580-shuffle-the-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Subhamrana007/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
