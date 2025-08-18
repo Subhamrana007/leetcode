@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Subhamrana007/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1580-shuffle-the-array](https://github.com/Subhamrana007/leetcode/tree/master/1580-shuffle-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Subhamrana007/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2350-find-closest-number-to-zero](https://github.com/Subhamrana007/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [3778-transform-array-by-parity](https://github.com/Subhamrana007/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
