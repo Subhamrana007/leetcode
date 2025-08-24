@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Subhamrana007/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Subhamrana007/leetcode/tree/master/0013-roman-to-integer) |
 | [0371-sum-of-two-integers](https://github.com/Subhamrana007/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Subhamrana007/leetcode/tree/master/0412-fizz-buzz) |
 | [1448-maximum-69-number](https://github.com/Subhamrana007/leetcode/tree/master/1448-maximum-69-number) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Subhamrana007/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Subhamrana007/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Subhamrana007/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Subhamrana007/leetcode/tree/master/0412-fizz-buzz) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Subhamrana007/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Subhamrana007/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Subhamrana007/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Subhamrana007/leetcode/tree/master/0242-valid-anagram) |
