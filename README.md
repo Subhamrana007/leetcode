@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Subhamrana007/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Subhamrana007/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhamrana007/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Subhamrana007/leetcode/tree/master/0217-contains-duplicate) |
@@ -164,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Subhamrana007/leetcode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/Subhamrana007/leetcode/tree/master/1448-maximum-69-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Subhamrana007/leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Subhamrana007/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Subhamrana007/leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Subhamrana007/leetcode/tree/master/1894-merge-strings-alternately) |
