@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Subhamrana007/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Subhamrana007/leetcode/tree/master/0412-fizz-buzz) |
 | [1448-maximum-69-number](https://github.com/Subhamrana007/leetcode/tree/master/1448-maximum-69-number) |
+| [3830-find-closest-person](https://github.com/Subhamrana007/leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
