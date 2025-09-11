@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Subhamrana007/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Subhamrana007/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Subhamrana007/leetcode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Subhamrana007/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Greedy
 |  |
