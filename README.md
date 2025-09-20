@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Subhamrana007/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Subhamrana007/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Subhamrana007/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Subhamrana007/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Subhamrana007/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Subhamrana007/leetcode/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/Subhamrana007/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Subhamrana007/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Subhamrana007/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Subhamrana007/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Subhamrana007/leetcode/tree/master/0383-ransom-note) |
 | [0817-design-hashmap](https://github.com/Subhamrana007/leetcode/tree/master/0817-design-hashmap) |
 ## Sorting
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Subhamrana007/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Subhamrana007/leetcode/tree/master/0383-ransom-note) |
 | [3778-transform-array-by-parity](https://github.com/Subhamrana007/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Quickselect
 |  |
