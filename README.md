@@ -1,4 +1,4 @@
-# LeetCode Solutions 🚀
+# LeetCode Solutions ð
 
 This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
 
@@ -9,7 +9,7 @@ The goal of this repo is simple:
 
 ---
 
-## 🧠 What’s inside?
+## ð§  Whatâs inside?
 
 - Problems are organized by **LeetCode problem number**
 - Each folder contains the solution code submitted on LeetCode
@@ -18,7 +18,7 @@ The goal of this repo is simple:
 
 ---
 
-## 🛠 Tech Stack
+## ð  Tech Stack
 
 - **Python** (primary)
 - **C++**
@@ -26,7 +26,7 @@ The goal of this repo is simple:
 
 ---
 
-## 📊 Progress Tracking
+## ð Progress Tracking
 
 - Total problems solved: _actively increasing_
 - Difficulty covered:
@@ -38,7 +38,7 @@ This repository is automatically updated using **LeetHub**, ensuring that every 
 
 ---
 
-## 🎯 Why this repository?
+## ð¯ Why this repository?
 
 I use this repo to:
 - Build strong DSA fundamentals
@@ -48,13 +48,13 @@ I use this repo to:
 
 ---
 
-## 🔗 LeetCode Profile
+## ð LeetCode Profile
 
-👉 https://leetcode.com/subhamrana007/
+ð https://leetcode.com/subhamrana007/
 
 ---
 
-## 📌 Notes
+## ð Notes
 
 - Code reflects the solution accepted at the time of submission
 - Some problems may have multiple valid approaches; these represent one optimal strategy
@@ -183,6 +183,7 @@ Consistency beats intensity. This repo is proof of work.
 | [0347-top-k-frequent-elements](https://github.com/Subhamrana007/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0817-design-hashmap](https://github.com/Subhamrana007/leetcode/tree/master/0817-design-hashmap) |
 | [1580-shuffle-the-array](https://github.com/Subhamrana007/leetcode/tree/master/1580-shuffle-the-array) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Subhamrana007/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Subhamrana007/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2350-find-closest-number-to-zero](https://github.com/Subhamrana007/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [3778-transform-array-by-parity](https://github.com/Subhamrana007/leetcode/tree/master/3778-transform-array-by-parity) |
