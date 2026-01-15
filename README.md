@@ -1,5 +1,68 @@
-# leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions 🚀
+
+This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
+
+The goal of this repo is simple:
+- Strengthen problem-solving skills
+- Write clean and efficient code
+- Track long-term consistency and progress
+
+---
+
+## 🧠 What’s inside?
+
+- Problems are organized by **LeetCode problem number**
+- Each folder contains the solution code submitted on LeetCode
+- Solutions prioritize **optimal time and space complexity**
+- Most solutions are written in **Python**, with some in **C++** and **JavaScript**
+
+---
+
+## 🛠 Tech Stack
+
+- **Python** (primary)
+- **C++**
+- **JavaScript**
+
+---
+
+## 📊 Progress Tracking
+
+- Total problems solved: _actively increasing_
+- Difficulty covered:
+  - Easy
+  - Medium
+  - Hard
+
+This repository is automatically updated using **LeetHub**, ensuring that every accepted submission is versioned and tracked.
+
+---
+
+## 🎯 Why this repository?
+
+I use this repo to:
+- Build strong DSA fundamentals
+- Prepare for technical interviews
+- Develop consistency and discipline in problem-solving
+- Reflect on past solutions and improve them over time
+
+---
+
+## 🔗 LeetCode Profile
+
+👉 https://leetcode.com/subhamrana007/
+
+---
+
+## 📌 Notes
+
+- Code reflects the solution accepted at the time of submission
+- Some problems may have multiple valid approaches; these represent one optimal strategy
+- Refactoring and improvements may be added later
+
+---
+
+Consistency beats intensity. This repo is proof of work.
 
 
 # Array
