@@ -1,4 +1,4 @@
-# LeetCode Solutions ð
+# LeetCode Solutions Ã°ÂÂ
 
 This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
 
@@ -9,7 +9,7 @@ The goal of this repo is simple:
 
 ---
 
-## What's inside?
+## What'Âs inside?
 
 - Problems are organized by **LeetCode problem number**
 - Each folder contains the solution code submitted on LeetCode
@@ -26,7 +26,7 @@ The goal of this repo is simple:
 
 ---
 
-## Progress Tracking
+##ÂÂÂ Progress Tracking
 
 - Total problems solved: _actively increasing_
 - Difficulty covered:
@@ -48,9 +48,9 @@ I use this repo to:
 
 ---
 
-## LeetCode Profile
+## ÂÂÂLeetCode Profile
 
-ð https://leetcode.com/subhamrana007/
+Ã°ÂÂÂ https://leetcode.com/subhamrana007/
 
 ---
 
@@ -193,6 +193,7 @@ Consistency beats intensity. This repo is proof of work.
 | [0001-two-sum](https://github.com/Subhamrana007/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Subhamrana007/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Subhamrana007/leetcode/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Subhamrana007/leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Subhamrana007/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Subhamrana007/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Subhamrana007/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -262,10 +263,12 @@ Consistency beats intensity. This repo is proof of work.
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Subhamrana007/leetcode/tree/master/0146-lru-cache) |
 | [0817-design-hashmap](https://github.com/Subhamrana007/leetcode/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Subhamrana007/leetcode/tree/master/0146-lru-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Subhamrana007/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/Subhamrana007/leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -273,4 +276,8 @@ Consistency beats intensity. This repo is proof of work.
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Subhamrana007/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/Subhamrana007/leetcode/tree/master/0817-design-hashmap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Subhamrana007/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
