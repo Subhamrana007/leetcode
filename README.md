@@ -1,4 +1,4 @@
-# LeetCode Solutions ð
+# LeetCode Solutions ð
 
 This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
 
@@ -9,7 +9,7 @@ The goal of this repo is simple:
 
 ---
 
-## ð§  Whatâs inside?
+## What's inside?
 
 - Problems are organized by **LeetCode problem number**
 - Each folder contains the solution code submitted on LeetCode
@@ -18,7 +18,7 @@ The goal of this repo is simple:
 
 ---
 
-## ð  Tech Stack
+## Tech Stack
 
 - **Python** (primary)
 - **C++**
@@ -26,7 +26,7 @@ The goal of this repo is simple:
 
 ---
 
-## ð Progress Tracking
+## Progress Tracking
 
 - Total problems solved: _actively increasing_
 - Difficulty covered:
@@ -38,7 +38,7 @@ This repository is automatically updated using **LeetHub**, ensuring that every 
 
 ---
 
-## ð¯ Why this repository?
+## Why this repository?
 
 I use this repo to:
 - Build strong DSA fundamentals
@@ -48,13 +48,13 @@ I use this repo to:
 
 ---
 
-## ð LeetCode Profile
+## LeetCode Profile
 
 ð https://leetcode.com/subhamrana007/
 
 ---
 
-## ð Notes
+## Notes
 
 - Code reflects the solution accepted at the time of submission
 - Some problems may have multiple valid approaches; these represent one optimal strategy
