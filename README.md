@@ -1,15 +1,15 @@
-# LeetCode Solutions ð
+# LeetCode Solutions 🚀
 
 This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
 
 The goal of this repo is simple:
-- Strengthen problem-solving skills
-- Write clean and efficient code
-- Track long-term consistency and progress
+- Strengthen problem-solving skills  
+- Write clean and efficient code  
+- Track long-term consistency and progress  
 
 ---
 
-## What's inside?
+## What's inside?
 
 - Problems are organized by **LeetCode problem number**
 - Each folder contains the solution code submitted on LeetCode
@@ -26,7 +26,7 @@ The goal of this repo is simple:
 
 ---
 
-## Progress Tracking
+## 📊 Progress Tracking
 
 - Total problems solved: _actively increasing_
 - Difficulty covered:
@@ -48,9 +48,9 @@ I use this repo to:
 
 ---
 
-## LeetCode Profile
+## 🔗 LeetCode Profile
 
-ð https://leetcode.com/subhamrana007/
+👉 https://leetcode.com/subhamrana007/
 
 ---
 
@@ -62,7 +62,9 @@ I use this repo to:
 
 ---
 
-Consistency beats intensity. This repo is proof of work.
+**Consistency beats intensity.**  
+This repo is proof of work.
+
 
 
 # Array
