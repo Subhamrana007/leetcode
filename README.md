@@ -1,4 +1,4 @@
-# LeetCode Solutions Ã°ÂÂ
+# LeetCode Solutions ÃÂ°ÃÂÃÂ
 
 This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
 
@@ -9,7 +9,7 @@ The goal of this repo is simple:
 
 ---
 
-## What'Âs inside?
+## What'ÃÂs inside?
 
 - Problems are organized by **LeetCode problem number**
 - Each folder contains the solution code submitted on LeetCode
@@ -26,7 +26,7 @@ The goal of this repo is simple:
 
 ---
 
-##ÂÂÂ Progress Tracking
+##ÃÂÃÂÃÂ Progress Tracking
 
 - Total problems solved: _actively increasing_
 - Difficulty covered:
@@ -48,9 +48,9 @@ I use this repo to:
 
 ---
 
-## ÂÂÂLeetCode Profile
+## ÃÂÃÂÃÂLeetCode Profile
 
-Ã°ÂÂÂ https://leetcode.com/subhamrana007/
+ÃÂ°ÃÂÃÂÃÂ https://leetcode.com/subhamrana007/
 
 ---
 
@@ -186,6 +186,7 @@ Consistency beats intensity. This repo is proof of work.
 | [1927-maximum-ascending-subarray-sum](https://github.com/Subhamrana007/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Subhamrana007/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2350-find-closest-number-to-zero](https://github.com/Subhamrana007/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Subhamrana007/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3778-transform-array-by-parity](https://github.com/Subhamrana007/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
