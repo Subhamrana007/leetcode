@@ -1,4 +1,4 @@
-# LeetCode Solutions Ã
+# LeetCode Solutions 
 
 This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
 
