@@ -1,4 +1,4 @@
-# LeetCode Solutions ÃÂÃÂ°ÃÂÃÂÃÂÃÂ
+# LeetCode Solutions Ã
 
 This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
 
@@ -9,7 +9,7 @@ The goal of this repo is simple:
 
 ---
 
-## What'ÃÂÃÂs inside?
+## What's inside?
 
 - Problems are organized by **LeetCode problem number**
 - Each folder contains the solution code submitted on LeetCode
@@ -26,7 +26,7 @@ The goal of this repo is simple:
 
 ---
 
-##ÃÂÃÂÃÂÃÂÃÂÃÂ Progress Tracking
+## Progress Tracking
 
 - Total problems solved: _actively increasing_
 - Difficulty covered:
@@ -48,9 +48,9 @@ I use this repo to:
 
 ---
 
-## ÃÂÃÂÃÂÃÂÃÂÃÂLeetCode Profile
+## LeetCode Profile
 
-ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ https://leetcode.com/subhamrana007/
+ https://leetcode.com/subhamrana007/
 
 ---
 
