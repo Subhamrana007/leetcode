@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# LeetCode SolutionsÂÂ
 
 This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
 
@@ -50,7 +50,7 @@ I use this repo to:
 
 ## LeetCode Profile
 
- https://leetcode.com/subhamrana007/
+Â https://leetcode.com/subhamrana007/
 
 ---
 
@@ -180,6 +180,7 @@ Consistency beats intensity. This repo is proof of work.
 | [0228-summary-ranges](https://github.com/Subhamrana007/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Subhamrana007/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Subhamrana007/leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Subhamrana007/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Subhamrana007/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0817-design-hashmap](https://github.com/Subhamrana007/leetcode/tree/master/0817-design-hashmap) |
 | [1580-shuffle-the-array](https://github.com/Subhamrana007/leetcode/tree/master/1580-shuffle-the-array) |
@@ -236,6 +237,7 @@ Consistency beats intensity. This repo is proof of work.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Subhamrana007/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Subhamrana007/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Consistency beats intensity. This repo is proof of work.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Subhamrana007/leetcode/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/Subhamrana007/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Subhamrana007/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/Subhamrana007/leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
