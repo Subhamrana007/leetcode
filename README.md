@@ -1,4 +1,4 @@
-# LeetCode SolutionsÂÂ
+# LeetCode SolutionsÃÂÃÂ
 
 This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
 
@@ -50,7 +50,7 @@ I use this repo to:
 
 ## LeetCode Profile
 
-Â https://leetcode.com/subhamrana007/
+ÃÂ https://leetcode.com/subhamrana007/
 
 ---
 
@@ -166,6 +166,7 @@ Consistency beats intensity. This repo is proof of work.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Subhamrana007/leetcode/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/Subhamrana007/leetcode/tree/master/0735-asteroid-collision) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Subhamrana007/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
@@ -182,6 +183,7 @@ Consistency beats intensity. This repo is proof of work.
 | [0283-move-zeroes](https://github.com/Subhamrana007/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Subhamrana007/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Subhamrana007/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0735-asteroid-collision](https://github.com/Subhamrana007/leetcode/tree/master/0735-asteroid-collision) |
 | [0817-design-hashmap](https://github.com/Subhamrana007/leetcode/tree/master/0817-design-hashmap) |
 | [1580-shuffle-the-array](https://github.com/Subhamrana007/leetcode/tree/master/1580-shuffle-the-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Subhamrana007/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -284,4 +286,8 @@ Consistency beats intensity. This repo is proof of work.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Subhamrana007/leetcode/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Subhamrana007/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
