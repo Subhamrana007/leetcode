@@ -1,4 +1,4 @@
-# LeetCode SolutionsÃÂÃÂ
+# LeetCode SolutionsÃÂÃÂÃÂÃÂ
 
 This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
 
@@ -50,7 +50,7 @@ I use this repo to:
 
 ## LeetCode Profile
 
-ÃÂ https://leetcode.com/subhamrana007/
+ÃÂÃÂ https://leetcode.com/subhamrana007/
 
 ---
 
@@ -277,6 +277,7 @@ Consistency beats intensity. This repo is proof of work.
 | [0303-range-sum-query-immutable](https://github.com/Subhamrana007/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Subhamrana007/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/Subhamrana007/leetcode/tree/master/0817-design-hashmap) |
+| [0937-online-stock-span](https://github.com/Subhamrana007/leetcode/tree/master/0937-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -290,4 +291,13 @@ Consistency beats intensity. This repo is proof of work.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Subhamrana007/leetcode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/Subhamrana007/leetcode/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Subhamrana007/leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Subhamrana007/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
