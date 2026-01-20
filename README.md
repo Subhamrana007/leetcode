@@ -1,4 +1,4 @@
-# LeetCode SolutionsÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
+# LeetCode SolutionsÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
 
 This repository contains my solutions to **LeetCode problems**, solved consistently as part of my Data Structures & Algorithms practice.
 
@@ -50,7 +50,7 @@ I use this repo to:
 
 ## LeetCode Profile
 
-ÃÂÃÂÃÂÃÂ https://leetcode.com/subhamrana007/
+ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ https://leetcode.com/subhamrana007/
 
 ---
 
